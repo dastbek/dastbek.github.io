@@ -6,12 +6,11 @@
 
 [Data Exploration with Python](/projects/projects)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Projects/output_27_0.png?raw=true"/>
 
 ---
 [Bike Rental Service Analysis](/pdf/sample_presentation.pdf)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
