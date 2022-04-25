@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Projects
 
-[Project 1 Title](/sample_page)
+[Data Exploration with Python](/projects/projects)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Bike Rental Service Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Other coding projects
+
+- [Discord chat bot using Python](https://discord.com/developers/applications/680058299571634219/information)
 
 ---
 
