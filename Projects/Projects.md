@@ -60,7 +60,7 @@ df_train.columns
 
 
 
-In order to understand our data, we need to look at each variable and try to figure out their meaning and relevance to the problem of predicting SalePrice. Reading through each attribute in the table, we want to have from out data:
+In order to understand our data, we need to look at each variable and try to figure out their meaning and relevance to the problem of predicting SalePrice. Reading through each attribute in the table, we want to have from our data:
 - **Explaination**: Brief explaination of the attribute
 - **Type**: Categorical or Numeric
 - **Expectation**: Does the attribute has a great impact on our target (SalePrice)
