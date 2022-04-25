@@ -78,7 +78,7 @@ Going through this process, we can use our intuition to conclude that the follow
 - TotalBsmtSF.
 - GrLivArea.
 
-## Analysiing SalePrice
+## Analysing SalePrice
 We first need to understand the nature of our target
 
 
