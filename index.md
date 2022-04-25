@@ -15,7 +15,7 @@ Explorative practice on a dataset provided by Kaggle
 
 Data Analytics projects using Dataset provided by Google
 <br><br>
-
+<img src="Projects/PowerBiCycling.png?raw=true"/>
 ---
 
 
