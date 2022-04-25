@@ -5,12 +5,14 @@
 ### Data Analytics Projects
 
 [Data Exploration with Python](/Projects/Projects.md)
+
 Explorative practice on a dataset provided by Kaggle
 <br><br>
 <img src="Projects/output_27_0.png?raw=true"/>
 
 ---
 [Bike Rental Service Analysis](/pdf/sample_presentation.pdf)
+
 Data Analytics projects using Dataset provided by Google
 <br><br>
 
