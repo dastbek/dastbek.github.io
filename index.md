@@ -4,7 +4,7 @@
 
 ### Data Analytics Projects
 
-[Data Exploration with Python](/projects/projects)
+[Data Exploration with Python](/Projects/Projects)
 <br><br>
 <img src="Projects/output_27_0.png?raw=true"/>
 
