@@ -19,7 +19,13 @@ Data Analytics projects using Dataset provided by Google
 <img src="Projects/PowerBiCycling.png?raw=true"/>
 
 ---
+## [Testing](/Projects/P2.ipynb)
 
+Data Analytics projects using Dataset provided by Google
+<br><br>
+<img src="Projects/PowerBiCycling.png?raw=true"/>
+
+---
 
 ## Other coding projects
 
