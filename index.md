@@ -4,7 +4,7 @@
 
 # Data Analytics Projects
 
-## [Data Exploration with Python](/Projects/Projects.md)
+## [Data Exploration with Python](/Projects/Projects2.html)
 
 Explorative practice on a dataset provided by Kaggle
 <br><br>
