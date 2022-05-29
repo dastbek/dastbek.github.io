@@ -4,15 +4,23 @@
 
 # Data Analytics Projects
 
-## [Data Exploration with Python](/Projects/Projects2.html)
+## [K-means Clustering for Business Use Case ](/Projects/K-means clustering/K-means clustering.md)
 
-Explorative practice on a dataset provided by Kaggle
+K-means Clustering implementation with python and result interpretation
 <br><br>
-<img src="Projects/output_27_0.png?raw=true"/>
+<img src="Projects//K-means clustering/output_19_1.png?raw=true"/>
 
 ---
 
-## [Bike Rental Service Analysis](/pdf/sample_presentation.pdf)
+## [Data Exploration And Simple ML Model with Python](/Projects/Housing Price Model/HousingML.md)
+
+Explorative practice on a dataset provided by Kaggle
+<br><br>
+<img src="Projects//Housing Price Model/output_27_0.png?raw=true"/>
+
+---
+
+## [Bike Rental Service Analysis](Projects/PowerBiCycling.png?raw=true)
 
 Data Analytics projects using Dataset provided by Google
 <br><br>
