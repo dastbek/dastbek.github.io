@@ -4,7 +4,7 @@
 
 # Data Analytics Projects
 
-## [K-means Clustering for Business Use Case ](/Projects/K-means clustering/K-means clustering.md)
+## [K-means Clustering for Business Use Case ](/Projects/K-means clustering/K-means clustering.html)
 
 K-means Clustering implementation with python and result interpretation
 <br><br>
