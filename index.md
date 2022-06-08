@@ -20,16 +20,16 @@ Explorative practice on a dataset provided by Kaggle
 
 ---
 
-## [POWER BI - Sales Data Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQxNTc0ZmUtYTUyOS00OGZhLTkzNzItODk2MTFkZWRhYmY2IiwidCI6ImM2ZTI5MzdjLTRhYjktNDY3Zi04MGZhLThkYWY1Nzc2MmY4NiJ9)
+## [Power BI - Sales Data Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQxNTc0ZmUtYTUyOS00OGZhLTkzNzItODk2MTFkZWRhYmY2IiwidCI6ImM2ZTI5MzdjLTRhYjktNDY3Zi04MGZhLThkYWY1Nzc2MmY4NiJ9)
 
 Sale Dashboard using Dataset provided by Microsoft
 <br><br>
-<img src="Projects/PowerBiCycling.png?raw=true"/>
+<img src="Projects/SalesSample.png?raw=true"/>
 
 ---
 ---
 
-## [POWER BI - Bike Rental Service Analysis](Projects/PowerBiCycling.png?raw=true)
+## [Power BI - Bike Rental Service Analysis](Projects/PowerBiCycling.png?raw=true)
 
 Data Analytics projects using Dataset provided by Google
 <br><br>
