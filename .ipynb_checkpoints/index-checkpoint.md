@@ -41,7 +41,9 @@ Data Analytics projects using Dataset provided by Google
 ## Other coding projects
 
 - [Discord chat bot using Python](https://discord.com/developers/applications/680058299571634219/information)
+
 - [Misc](https://www.canva.com/design/DAFEMz-Man8/mSISdLZ2ZSNpQEqcrubRJg/edit?layoutQuery=user+interface+app)
+
 ---
 
 
